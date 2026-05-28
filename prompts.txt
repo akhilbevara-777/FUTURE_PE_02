@@ -1,0 +1,28 @@
+PROMPT 1:
+Generate a UGC-style Instagram Reel ad script for a skincare face wash.
+
+Target audience:
+College students and young adults.
+
+Tone:
+Natural, honest, friendly.
+
+Framework:
+Problem → Solution → CTA.
+
+Product Name:
+GlowUp Face Wash
+
+
+PROMPT 2:
+Generate multiple scroll-stopping hooks for a skincare product ad.
+
+Tone:
+Casual and authentic.
+
+
+PROMPT 3:
+Generate persuasive CTA lines for Instagram skincare ads.
+
+Tone:
+Simple and conversion-focused.
